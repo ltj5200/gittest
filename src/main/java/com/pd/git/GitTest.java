@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("你好");
         System.out.println("你好,我是分支");
         System.out.println("你好,我是github");
+        System.out.println("你好,我是idea");
     }
 
 
